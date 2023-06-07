@@ -1,1 +1,1 @@
-# parallax-scrolling-website
+# © WebDesign Master
